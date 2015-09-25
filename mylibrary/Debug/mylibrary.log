@@ -1,8 +1,0 @@
-﻿Build started 2015/8/7 15:24:58.
-     1>Project "D:\MyWorks\fastFolderTree\mylibrary\mylibrary.vcxproj" on node 3 (build target(s)).
-     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(292,5): error MSB8009: .NET Framework 2.0/3.0/3.5 target the v90 platform toolset. Please make sure that Visual Studio 2008 is installed on the machine.
-     1>Done Building Project "D:\MyWorks\fastFolderTree\mylibrary\mylibrary.vcxproj" (build target(s)) -- FAILED.
-
-Build FAILED.
-
-Time Elapsed 00:00:00.03
