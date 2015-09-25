@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fastFolderTree", "fastFolderTree\fastFolderTree.vcxproj", "{1F92877E-FE0E-4C9C-AAFD-09790DC59625}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testLib", "testLib\testLib.vcxproj", "{6E796590-8437-4831-B2C4-8B1097475D51}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mylibtest", "mylibtest\mylibtest.vcxproj", "{D1B09186-C1B1-4AD1-842F-2706F845980E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F92877E-FE0E-4C9C-AAFD-09790DC59625}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1F92877E-FE0E-4C9C-AAFD-09790DC59625}.Debug|Win32.Build.0 = Debug|Win32
+		{1F92877E-FE0E-4C9C-AAFD-09790DC59625}.Release|Win32.ActiveCfg = Release|Win32
+		{1F92877E-FE0E-4C9C-AAFD-09790DC59625}.Release|Win32.Build.0 = Release|Win32
+		{6E796590-8437-4831-B2C4-8B1097475D51}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6E796590-8437-4831-B2C4-8B1097475D51}.Debug|Win32.Build.0 = Debug|Win32
+		{6E796590-8437-4831-B2C4-8B1097475D51}.Release|Win32.ActiveCfg = Release|Win32
+		{6E796590-8437-4831-B2C4-8B1097475D51}.Release|Win32.Build.0 = Release|Win32
+		{D1B09186-C1B1-4AD1-842F-2706F845980E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D1B09186-C1B1-4AD1-842F-2706F845980E}.Debug|Win32.Build.0 = Debug|Win32
+		{D1B09186-C1B1-4AD1-842F-2706F845980E}.Release|Win32.ActiveCfg = Release|Win32
+		{D1B09186-C1B1-4AD1-842F-2706F845980E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
